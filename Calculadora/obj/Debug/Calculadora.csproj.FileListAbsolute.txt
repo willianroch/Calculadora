@@ -1,1 +1,9 @@
 C:\Users\Willian\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Willian\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Willian\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Willian\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Willian\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Willian\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Willian\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Willian\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Willian\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
